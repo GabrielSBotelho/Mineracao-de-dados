@@ -1,2 +1,1 @@
-# Analise-Exploratoria-Dados-EDA
-Projetos de análise exploratória de dados 
+# Mineração de dado
